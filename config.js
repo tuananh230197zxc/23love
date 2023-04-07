@@ -1,7 +1,7 @@
 const nameGirl = '';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100014680295356';
-const eventName = 'Chúc mừng sinh nhật Yến <3';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc Yến sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau <3';
+const eventName = 'Lời tỏ tình <3';
+const titleCard = 'Tặng lươn chúa';
+const contentCard = 'Cảm ơn định mệnh đã cho anh gặp e,anh không chắc tương lai hai đứa mình ra sao,nhưng anh sẽ làm hết sức mọi điều để khiến em bên anh thật hạnh phúc.Hiền ơi,em nhận lời làm người yêu anh nhé<3 <3';
 const giftImage = 'hot-girl.png';
 
