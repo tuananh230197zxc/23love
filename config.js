@@ -1,4 +1,4 @@
-const nameGirl = '';
+const nameGirl = 'Hiền Lươn Chúa';
 const giftUrl = '';
 const eventName = 'Kỷ niệm đầu tiên';
 const titleCard = 'Lời tỏ tình';
